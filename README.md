@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kwaku Essah</h1>
 <h3 align="center">Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
