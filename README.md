@@ -38,5 +38,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hexstories&" alt="hexstories" /></p>
 
+
+
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/hexstories/hexstories/output/snake.svg" alt="Snake animation" />
+
+###
