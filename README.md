@@ -19,6 +19,8 @@
 - 📫 How to reach me **kwakuasihene@gmail.com**
 
 - ⚡ Fun fact **...talk music**
+  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,3 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hexstories&show_icons=true&locale=en" alt="hexstories" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hexstories&" alt="hexstories" /></p>
+
+###
+
