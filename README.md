@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kwaku Essah</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Backend Developer, Aspiring Cybersecurity Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hexstories&label=Profile%20views&color=0e75b6&style=flat" alt="hexstories" /> </p>
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Any Web Apps**
 
-- 🤝 I’m looking for help with **DATA ANALYTICS**
+- 🤝 I’m looking for help with **CYBER SECURITY**
 
 - 💬 Ask me about **Django, Python**
 
