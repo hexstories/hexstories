@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/hexstories_" target="blank"><img src="https://img.shields.io/twitter/follow/hexstories_?logo=twitter&style=for-the-badge" alt="hexstories_" /></a> </p>
 
-- 🔭 I’m currently working on **Recoil App**
+- 🔭 I’m currently working on **Recoil Prod**
 
 - 🌱 I’m currently learning **Django, Django Rest Framework, Cybersecurity**
 
