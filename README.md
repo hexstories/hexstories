@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Recoil Prod**
 
-- 🌱 I’m currently learning **Django, Django Rest Framework, Cybersecurity**
+- 🌱 I’m currently learning **Django, Django Rest Framework, AWS, Cybersecurity**
 
 - 👯 I’m looking to collaborate on **Any Web Apps**
 
