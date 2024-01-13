@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Any Web Apps**
 
-- 🤝 I’m looking for help with **CYBER SECURITY**
+- 🤝 I’m looking for help with **Penetration Testing**
 
 - 💬 Ask me about **Django, Python**
 
