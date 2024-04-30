@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Recoil Prod**
 
-- 🌱 I’m currently learning **Django, Django Rest Framework, AWS, Cybersecurity**
+- 🌱 I’m currently learning **Django, FastApi, AWS, Cybersecurity**
 
 - 👯 I’m looking to collaborate on **Any Web Apps**
 
 - 🤝 I’m looking for help with **Penetration Testing**
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **kwakuasihene@gmail.com**
 
