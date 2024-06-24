@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kwaku Essah</h1>
+<h1 align="center"> 👋, I'm Kwaku Essah</h1>
 <h3 align="center">Backend Developer, Aspiring Cybersecurity Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
