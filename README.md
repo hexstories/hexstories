@@ -6,19 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/hexstories_" target="blank"><img src="https://img.shields.io/twitter/follow/hexstories_?logo=twitter&style=for-the-badge" alt="hexstories_" /></a> </p>
 
-- 🔭 I’m currently working on **Recoil Prod**
 
-- 🌱 I’m currently learning **Django, FastApi, AWS, Cybersecurity**
+- 🌱  **Django, FastApi, AWS, Cybersecurity**
 
-- 👯 I’m looking to collaborate on **Any Web Apps**
-
-- 🤝 I’m looking for help with **Penetration Testing**
+-  looking to collaborate on **Any Web Apps**
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **kwakuasihene@gmail.com**
 
-- ⚡ Fun fact **...talk music**
   
 
 
