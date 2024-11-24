@@ -33,10 +33,4 @@
 
 
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hexstories/hexstories/output/snake.svg" alt="Snake animation" />
-
-###
