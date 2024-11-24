@@ -6,14 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/hexstories_" target="blank"><img src="https://img.shields.io/twitter/follow/hexstories_?logo=twitter&style=for-the-badge" alt="hexstories_" /></a> </p>
 
+-  **making sense out of complex data**
+-   **Building and Breaking softwares** (  :\  ) 
 
-- 🌱  **Django, FastApi, AWS, Cybersecurity**
 
--  looking to collaborate on **Any Web Apps**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **kwakuasihene@gmail.com**
+- 📫  **kwakuasihene@gmail.com**
 
   
 
