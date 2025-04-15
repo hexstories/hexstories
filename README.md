@@ -1,5 +1,5 @@
 <h1 align="center"> 👋, I'm Kwaku Essah</h1>
-<h3 align="center">Backend Developer, Data Analyst</h3>
+<h3 align="center">Software Developer, Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hexstories&label=Profile%20views&color=0e75b6&style=flat" alt="hexstories" /> </p>
